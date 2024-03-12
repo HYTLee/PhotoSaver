@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  TestPhotoCollection
+
+  Created by YAUHENI HRAMIASHKEVICH on 11.03.24.
+  
+*/
+
+"main.title" = "Main";
+"rename" = "Rename";
+"ok" = "Ok";
+"cancel" = "Cancel";
+"warning" = "Warning";
+"warning.descr" = "Are you sure you want to delete photo?";
+"layout" = "Layout";
